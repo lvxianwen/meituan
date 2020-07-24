@@ -1,0 +1,262 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 定位 */
+.location.data-v-cf49e480 {
+	font-size: 30rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	height: 80rpx;
+	font-weight: 800;
+}
+.location image.data-v-cf49e480 {
+	width: 35rpx;
+	height: 35rpx;
+}
+.location-text.data-v-cf49e480 {
+	margin: 0 10rpx;
+}
+/* 搜索框 */
+.search.data-v-cf49e480 {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	height: 70rpx;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+}
+.search-cont.data-v-cf49e480 {
+	height: 70rpx;
+	line-height: 70rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	width: 100%;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: flex;
+	        flex-direction: flex;
+	background-color: #eff3f4;
+	border-radius: 10rpx;
+}
+.search-img.data-v-cf49e480 {
+	margin: auto 0 auto 20rpx;
+	width: 40rpx;
+	height: 40rpx;
+}
+.search-cont input.data-v-cf49e480 {
+	height: 70rpx;
+	line-height: 70rpx;
+	font-size: 25rpx;
+	color: #666;
+}
+/* 自定义轮播 */
+.swiper.data-v-cf49e480 {
+	height: 320rpx;
+}
+.swiper-item.data-v-cf49e480 {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-flex-wrap: wrap;
+	        flex-wrap: wrap;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	height: 320rpx;
+}
+.swiper-item-cont.data-v-cf49e480 {
+	width: calc((100% / 5) - 12px) !important;
+	margin: 6px;
+	position: relative;
+	text-align: center;
+}
+.swiper-item-cont text.data-v-cf49e480 {
+	padding-top: 20rpx;
+	font-size: 25rpx;
+}
+.swiper-item-cont image.data-v-cf49e480 {
+	width: 70rpx;
+	height: 70rpx;
+	border-radius: 50rpx;
+	display: block;
+	margin: 0 auto;
+}
+/* 轮播指示点 */
+.instruct_view.data-v-cf49e480 {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+	padding-top: 10rpx;
+}
+.instruct.data-v-cf49e480 {
+	background: #e6e6e6;
+	height: 10rpx;
+	width: 30rpx;
+	border-radius: 50rpx;
+	margin: 0 10rpx;
+}
+.active.data-v-cf49e480 {
+	background: #fbae22 !important;
+}
+

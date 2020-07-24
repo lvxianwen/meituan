@@ -1,0 +1,12 @@
+
+.cont.data-v-57280228 {
+	margin: 0 15rpx;
+}
+.cont .active.data-v-57280228{
+	background-color: #fff;
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+}
+

@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "美团外卖",
+  "usingComponents": {
+    "search": "/components/index/search",
+    "youxuan": "/components/index/youxuan",
+    "storetj": "/components/index/storetj",
+    "storelist": "/components/index/storelist",
+    "shangjia": "/components/index/shangjia"
+  }
+}
